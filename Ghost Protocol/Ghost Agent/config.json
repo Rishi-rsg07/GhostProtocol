@@ -1,0 +1,5 @@
+{
+  "CONTROL_PLANE_URL": "http://localhost:8000",
+  "AGENT_ID": "staging-us-east-cluster-01",
+  "POLL_INTERVAL_SECONDS": 5
+}
